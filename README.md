@@ -1,4 +1,4 @@
-# Woof
+# Woof 🐾
 
 > An interactive Jetpack Compose dog profiles app: browse a scrollable list of pups, tap to expand cards with spring-powered size and color animations, and switch between light & dark themes.
 
